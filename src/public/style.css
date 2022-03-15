@@ -1,0 +1,23 @@
+.title{
+    text-align: center;
+} 
+.input-submit{
+    margin: 30px 155px;
+} 
+#steeps-input{
+    height: 125px;
+}  
+  #foodForm{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: inherit;
+    margin:auto;
+}
+.content-chat{
+    display: flex;
+    flex-direction: column;
+}
+#chatBox{
+    width:30%;
+}

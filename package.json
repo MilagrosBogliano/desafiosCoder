@@ -1,0 +1,28 @@
+{
+  "name": "desafiosCoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilagrosBogliano/desafiosCoder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilagrosBogliano/desafiosCoder/issues"
+  },
+  "homepage": "https://github.com/MilagrosBogliano/desafiosCoder#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "multer": "^1.4.4",
+    "node": "^17.7.1",
+    "node.exe": "0.0.0",
+    "socket.io": "^4.4.1",
+    "uploader": "^1.24.1"
+  }
+}
